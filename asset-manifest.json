@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test-tebengan/static/css/main.6a019e5e.chunk.css",
+    "main.js": "/test-tebengan/static/js/main.1c71999d.chunk.js",
+    "main.js.map": "/test-tebengan/static/js/main.1c71999d.chunk.js.map",
+    "runtime-main.js": "/test-tebengan/static/js/runtime-main.73096579.js",
+    "runtime-main.js.map": "/test-tebengan/static/js/runtime-main.73096579.js.map",
+    "static/js/2.6b36c09c.chunk.js": "/test-tebengan/static/js/2.6b36c09c.chunk.js",
+    "static/js/2.6b36c09c.chunk.js.map": "/test-tebengan/static/js/2.6b36c09c.chunk.js.map",
+    "static/js/3.a8fb4b67.chunk.js": "/test-tebengan/static/js/3.a8fb4b67.chunk.js",
+    "static/js/3.a8fb4b67.chunk.js.map": "/test-tebengan/static/js/3.a8fb4b67.chunk.js.map",
+    "index.html": "/test-tebengan/index.html",
+    "static/css/main.6a019e5e.chunk.css.map": "/test-tebengan/static/css/main.6a019e5e.chunk.css.map",
+    "static/js/2.6b36c09c.chunk.js.LICENSE.txt": "/test-tebengan/static/js/2.6b36c09c.chunk.js.LICENSE.txt",
+    "static/media/user.73886533.svg": "/test-tebengan/static/media/user.73886533.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73096579.js",
+    "static/js/2.6b36c09c.chunk.js",
+    "static/css/main.6a019e5e.chunk.css",
+    "static/js/main.1c71999d.chunk.js"
+  ]
+}
